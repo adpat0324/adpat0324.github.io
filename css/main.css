@@ -2,7 +2,7 @@ h1{
   color: blue;
 }
 
-#trap1 {
+.tier1 {
     border-bottom: 100px solid red;
     border-left: 50px solid transparent;
     border-right: 50px solid transparent;
@@ -10,7 +10,7 @@ h1{
     width: 100px;
 }
 
-#trap2 {
+.tier2 {
     border-bottom: 100px solid red;
     border-left: 50px solid transparent;
     border-right: 50px solid transparent;
@@ -18,7 +18,7 @@ h1{
     width: 100px;
 }
 
-#trap3 {
+.tier3 {
     border-bottom: 100px solid red;
     border-left: 50px solid transparent;
     border-right: 50px solid transparent;
@@ -26,7 +26,7 @@ h1{
     width: 100px;
 }
 
-#trap4 {
+.tier4 {
     border-bottom: 100px solid red;
     border-left: 50px solid transparent;
     border-right: 50px solid transparent;
@@ -34,7 +34,7 @@ h1{
     width: 100px;
 }
 
-#trap5 {
+.tier5 {
     border-bottom: 100px solid red;
     border-left: 50px solid transparent;
     border-right: 50px solid transparent;
@@ -42,12 +42,12 @@ h1{
     width: 100px;
 }
 
- #trap6 {
-    border-bottom: 100px solid red;
-    border-left: 50px solid transparent;
-    border-right: 50px solid transparent;
-    height: 0;
-    width: 100px;
+ .tier6 {
+    border-bottom: 50px solid #555;
+	  border-left: 25px solid transparent;
+	  border-right: 25px solid transparent;
+	  height: 0;
+	  width: 125px;
 }
 
 
