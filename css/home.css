@@ -1,16 +1,13 @@
 h1 {
+  color: #767675;
   font-family: 'Fjalla One', sans-serif;
   padding: 4px;
-  border-bottom: 4px solid #b5a7d7;
-  font-size: 60px;
+  font-seize: 60px;
 }
 
 body {
-  background-image: url(/images/food.jpg);
-  background-repeat: no-repeat;
-  background-attachment: fixed;
+  background-color: #E5F1F1;
   font-family: 'Fjalla One', sans-serif;
-  color: white;
 }
 
 ul {
@@ -45,4 +42,30 @@ li a:hover:not(.active) {
 
 .active {
   background-color: #333;
+}
+h1{
+  font-size: 50px; 
+}
+
+h2{
+  font-size: 20px; 
+}
+
+h3{
+  font-size: 30px; 
+  text-align: center; 
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px;
+  border-bottom: 4px solid #b5a7d7;
+   
+}
+
+h4{
+  text-align: center; 
+  margin-left: auto;
+  margin-right: auto;
+  width: 700px;
+  line-height: 170%;
+  
 }
