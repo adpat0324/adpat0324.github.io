@@ -3,6 +3,10 @@ h1{
   font-family: 'Noto Sans TC', sans-serif;
 }
 
+body {
+  background-color: lightblue;
+}
+
 .tier1 {
     border-bottom: 100px solid red;
     border-left: 50px solid transparent;
