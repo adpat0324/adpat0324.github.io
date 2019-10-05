@@ -136,3 +136,34 @@ body {
     padding-left: 500px;
   font-family: 'Fjalla One', sans-serif;
 }
+
+.right6 {
+    font-size: 30px;
+    position: absolute;
+    padding-left: 750px;
+}
+.right5 {
+    font-size: 30px;
+    position: absolute;
+    padding-left: 800px;
+}
+.right4 {
+    font-size: 30px;
+    position: absolute;
+    padding-left: 850px;
+}
+.right3 {
+    font-size: 30px;
+    position: absolute;
+    padding-left: 930px;
+}
+.right2 {
+    font-size: 30px;
+    position: absolute;
+    padding-left: 970px;
+}
+.right1 {
+    font-size: 30px;
+    position: absolute;
+    padding-left: 1010px;
+}
