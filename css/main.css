@@ -220,32 +220,36 @@ body {
   from {opacity: 0;}
   to {opacity:1 ;}
 }
-
 ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #333;
+  background-color: #b5a7d7;
+  font-family: 'Fjalla One', sans-serif;
 }
 
 
 li {
   float: left;
+  float:none;
+    display:inline-block;
 }
 
 li a {
+  text-align:center; 
   display: block;
   color: white;
   text-align: center;
-  padding: 14px 16px;
+  padding: 10px 100px;
   text-decoration: none;
+  font-size: 20px;
 }
 
 li a:hover:not(.active) {
-  background-color: #111;
+  background-color: #757780;
 }
 
 .active {
-  background-color: #4CAF50;
+  background-color: #333;
 }
