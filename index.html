@@ -39,7 +39,8 @@ function drop(ev) {
     </div>
       
     
-    <div class="side6"><p> Junk Food</p></div>
+    <div class="side6" onclick="myFunction()">Junk Food
+    <span class="popuptext" id="myPopup">Foods and drinks high in fat, sugar, and salt</span></div>
     <div class="right6"><p> Not every day</p></div>
     <div class="tier6" ondrop="drop(event)" ondragover="allowDrop(event)"></div>
     <div class="side5"><p> Fats</p></div>
@@ -57,6 +58,16 @@ function drop(ev) {
     <div class="side1"><p> Fruits/Veggies</p></div>
     <div class="right1"><p> 5-7 servings a day</p></div>
     <div class="tier1" ondrop="drop(event)" ondragover="allowDrop(event)"></div>
+    
+    <script>
+      // When the user clicks on <div>, open the popup
+      function myFunction() {
+      var side6 = document.getElementById("myPopup");
+      side6.classList.toggle("show");
+      }
+    </script>
+
+
     
     <img id="drag1" src="/images/fries.png" draggable="true" ondragstart="drag(event)" width="128px" height="128px">
     <img id="drag2" src="/images/butter.png" draggable="true" ondragstart="drag(event)" width="128px" height="128px">
