@@ -7,6 +7,7 @@ h1 {
 
 body {
   background-color: #E5F1F1;
+  font-family: 'Fjalla One', sans-serif;
 }
 
 #divtest {
@@ -22,6 +23,7 @@ body {
   text-align: center; 
   font-size: 28px;
   font-weight: bold;
+  font-family: 'Fjalla One', sans-serif;
    color: #b5a7d7;
 }
 
@@ -99,31 +101,37 @@ body {
 .side1 {
     font-size: 30px;
   position: absolute;
-  padding-left: 150px
+  padding-left: 150px;
+  font-family: 'Fjalla One', sans-serif;
   
 }
 .side2 {
     font-size: 30px;
   position: absolute;
-  padding-left: 350px
+  padding-left: 350px;
+  font-family: 'Fjalla One', sans-serif;
 }
 .side3 {
     font-size: 30px;
   position: absolute;
-  padding-left: 400px
+  padding-left: 400px;
+  font-family: 'Fjalla One', sans-serif;
 }
 .side4 {
   font-size: 30px;
   position: absolute;
-  padding-left: 440px
+  padding-left: 440px;
+  font-family: 'Fjalla One', sans-serif;
 }
 .side5 {
   font-size: 30px;
   position: absolute;
-  padding-left: 540px
+  padding-left: 540px;
+    font-family: 'Fjalla One', sans-serif;
 }
 .side6 {
     font-size: 30px;
     position: absolute;
     padding-left: 500px;
+  font-family: 'Fjalla One', sans-serif;
 }
