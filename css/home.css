@@ -1,5 +1,5 @@
 h1 {
-  color: #767675;
+  color: #E5F1F1;
   font-family: 'Fjalla One', sans-serif;
   padding: 4px;
   font-seize: 60px;
@@ -7,6 +7,7 @@ h1 {
 
 body {
   background-image: url(/images/food.jpg);
+  background-repeat: no-repeat;
   font-family: 'Fjalla One', sans-serif;
 }
 
@@ -58,7 +59,7 @@ h3{
   margin-right: auto;
   padding: 10px;
   border-bottom: 4px solid #b5a7d7;
-   
+  color: #E5F1F1;
 }
 
 h4{
@@ -67,5 +68,6 @@ h4{
   margin-right: auto;
   width: 700px;
   line-height: 170%;
+  color: #E5F1F1;
   
 }
