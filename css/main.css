@@ -1,12 +1,41 @@
 h1 {
-  color: #A2A2A0;
-  font-family: 'Trocchi', serif;
+  color: #767675;
+  font-family: 'Fjalla One', sans-serif;
+  padding: 4px;
+  border-bottom: 4px solid #b5a7d7;
 }
 
 body {
   background-color: #E5F1F1;
 }
 
+#divtest {
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  color: #fff;
+  margin-top: 1%;
+  margin-bottom: 1%;
+}
+
+.divclasstitle {
+  text-align: center; 
+  font-size: 30px;
+  font-weight: bold;
+   color: #b5a7d7;
+}
+
+.divclassdesc {
+  width: 800px;
+  text-align: center;
+  padding: 5px;
+  margin-top: 1px;
+  font-size: 20px;
+  color: #36393B; 
+  font-family: 'Fjalla One', sans-serif;
+  letter-spacing: 1px;
+  line-height: 150%;
+}
 
 .tier1 {
     border-bottom: 100px solid #A6E3CB;
