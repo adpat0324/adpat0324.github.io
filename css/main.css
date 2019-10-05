@@ -95,3 +95,35 @@ body {
     width: 0px;
    margin: 0 auto;
 }
+
+.side1 {
+    font-size: 30px;
+  position: absolute;
+  padding-left: 150px
+  
+}
+.side2 {
+    font-size: 30px;
+  position: absolute;
+  padding-left: 350px
+}
+.side3 {
+    font-size: 30px;
+  position: absolute;
+  padding-left: 400px
+}
+.side4 {
+  font-size: 30px;
+  position: absolute;
+  padding-left: 440px
+}
+.side5 {
+  font-size: 30px;
+  position: absolute;
+  padding-left: 540px
+}
+.side6 {
+    font-size: 30px;
+    position: absolute;
+    padding-left: 500px;
+}
