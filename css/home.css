@@ -29,6 +29,11 @@ li {
     display:inline-block;
 }
 
+p {
+  font-size: 20px;
+}
+
+
 li a {
   text-align:center; 
   display: block;
