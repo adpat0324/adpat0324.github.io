@@ -9,7 +9,7 @@ body {
 
 
 .tier1 {
-    border-bottom: 100px solid green;
+    border-bottom: 100px solid #A6E3CB;
     border-left: 50px solid transparent;
     border-right: 50px solid transparent;
     height: 0;
@@ -19,7 +19,7 @@ body {
 }
 
 .tier2 {
-    border-bottom: 100px solid #94623e;
+    border-bottom: 100px solid #F2D3AF;
     border-left: 50px solid transparent;
     border-right: 50px solid transparent;
     height: 0;
@@ -29,7 +29,7 @@ body {
 }
 
 .tier3 {
-    border-bottom: 100px solid #44CCFF;
+    border-bottom: 100px solid #D0EAF0;
     border-left: 50px solid transparent;
     border-right: 50px solid transparent;
     height: 0;
@@ -39,7 +39,7 @@ body {
 }
 
 .tier4 {
-    border-bottom: 100px solid #fff705;
+    border-bottom: 100px solid #FAE4A0;
     border-left: 50px solid transparent;
     border-right: 50px solid transparent;
     height: 0;
@@ -49,7 +49,7 @@ body {
 }
 
 .tier5 {
-    border-bottom: 100px solid #ffc342;
+    border-bottom: 100px solid #FFAF88;
     border-left: 50px solid transparent;
     border-right: 50px solid transparent;
     height: 0;
@@ -59,7 +59,7 @@ body {
 }
 
  .tier6 {
-    border-bottom: 100px solid #fa3c3c;
+    border-bottom: 100px solid #FF8BA2;
     border-left: 50px solid transparent;
     border-right: 50px solid transparent;
     height: 0;
