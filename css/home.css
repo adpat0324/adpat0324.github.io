@@ -1,14 +1,16 @@
 h1 {
-  color: #767675;
   font-family: 'Fjalla One', sans-serif;
   padding: 4px;
   border-bottom: 4px solid #b5a7d7;
-  font-seize: 60px;
+  font-size: 60px;
 }
 
 body {
-  background-color: #E5F1F1;
+  background-image: url(/images/food.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
   font-family: 'Fjalla One', sans-serif;
+  color: white;
 }
 
 ul {
