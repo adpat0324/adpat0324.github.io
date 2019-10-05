@@ -1,2 +1,2 @@
 # adpat0324.github.io
-My first website!
+My website for DivHacks!
